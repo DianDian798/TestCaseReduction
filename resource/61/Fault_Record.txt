@@ -1,0 +1,1 @@
+Line75:   Original: if ( r * c > MAXTBL )   Fault: if ( r * c > MAXTBL-10)

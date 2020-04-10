@@ -1,0 +1,1 @@
+Line 85   Original: if ( scanf( " %ld", &x(i,j) ) != 1 )   Fault: if ( scanf( " %ld", &x(i,j) ) == 0 )

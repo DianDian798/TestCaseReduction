@@ -1,0 +1,1 @@
+line: 199 while(!finish()); => while(!finish()*0);

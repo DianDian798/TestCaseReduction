@@ -1,0 +1,1 @@
+Line 177:   Original: return -tmp + log( 2.50662827465 * ser );   Fault: return -tmp + log( 2.50663 * ser );

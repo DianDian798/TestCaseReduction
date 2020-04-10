@@ -1,0 +1,7 @@
+Line 50:   Original: Positive_RA_Alt_Thresh[0] = 400;   Fault: Positive_RA_Alt_Thresh[1] = 400;
+
+Line 51:   Original: Positive_RA_Alt_Thresh[1] = 500;   Fault: Positive_RA_Alt_Thresh[2] = 500;
+
+Line 52:   Original: Positive_RA_Alt_Thresh[2] = 640;   Fault: Positive_RA_Alt_Thresh[3] = 640;
+
+Line 53:   Original: Positive_RA_Alt_Thresh[3] = 740;   Fault: Positive_RA_Alt_Thresh[4] = 740;

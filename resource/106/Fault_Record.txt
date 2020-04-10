@@ -1,0 +1,5 @@
+Line 94:   Original:    Fault: result = result && (Other_Tracked_Alt < Own_Tracked_Alt);
+
+Line 99:   Original:    Fault: result = result && (Other_Tracked_Alt <= Own_Tracked_Alt);
+
+Line 129:   Original: need_downward_RA = Non_Crossing_Biased_Descend() && Own_Above_Threat();   Fault: need_downward_RA = Non_Crossing_Biased_Descend();

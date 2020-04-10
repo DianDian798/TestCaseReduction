@@ -1,0 +1,1 @@
+Line 201: Original: return sum * exp( -x + a * log( x ) - LGamma( a ) );   Fault: return sum * exp(  x + a * log( x ) - LGamma( a ) );

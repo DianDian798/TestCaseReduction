@@ -1,0 +1,1 @@
+line: 445 !is_end_of_character_stream(stream_ptr)) => is_end_of_character_stream(stream_ptr))

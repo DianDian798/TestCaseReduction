@@ -1,0 +1,1 @@
+Line 308:   Original: if ( rdf <= 0 || cdf <= 0 )  Fault: if ( rdf <= 0  )

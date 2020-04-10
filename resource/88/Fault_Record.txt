@@ -1,0 +1,5 @@
+Line 104:   Original: return (Own_Tracked_Alt < Other_Tracked_Alt);   Fault: return (Own_Tracked_Alt <= Other_Tracked_Alt);  /* NOTE JMW added equality to the condition. */
+Line 109:   Original: return (Other_Tracked_Alt < Own_Tracked_Alt);   Fault: return (Other_Tracked_Alt <= Own_Tracked_Alt); /* NOTE JMW added equality to the condition. */
+Line 128:   Original: if (need_upward_RA && need_downward_RA)   Fault: if (need_upward_RA)     /* NOTE JMW removed exclusive-or condition from upward and downward computations.*/
+Line 132:   Original: alt_sep = UNRESOLVED;   Fault:    
+Line 133:   Original: else if (need_upward_RA)   Fault:

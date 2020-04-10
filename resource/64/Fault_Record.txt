@@ -1,0 +1,1 @@
+Line 378:   Original: if ( pi > 0.0 )   Fault: if ( pi >= 0.0 ) /* added an = after > */

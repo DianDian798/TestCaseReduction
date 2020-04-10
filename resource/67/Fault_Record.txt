@@ -1,0 +1,1 @@
+Line 198:   Original: sum += del *= x / ++ap;   Fault: sum = del *= x / ++ap;

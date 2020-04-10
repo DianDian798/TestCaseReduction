@@ -1,0 +1,2 @@
+Line 104:   Original: return (Own_Tracked_Alt < Other_Tracked_Alt);   Fault: return (Own_Tracked_Alt <= Other_Tracked_Alt);   /* NOTE JMW replaced LESS-THAN with LESS-THAN-EQUAL. */
+Line 109:   Original: return (Other_Tracked_Alt < Own_Tracked_Alt);   Fault: return (Other_Tracked_Alt <= Own_Tracked_Alt);   /* NOTE JMW replaced LESS-THAN with LESS-THAN-EQUAL. */

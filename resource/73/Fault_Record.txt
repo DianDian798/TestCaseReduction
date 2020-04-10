@@ -1,0 +1,1 @@
+Line 223:   Original: anf = an * fac;   Fault: anf = an - fac;

@@ -1,0 +1,1 @@
+line: 210 n=(int)(count*ratio+1); => n=NULL;//(int)(count*ratio+1);

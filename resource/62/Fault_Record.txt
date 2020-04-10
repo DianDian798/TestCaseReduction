@@ -1,0 +1,1 @@
+Line 233:   Original: if ( Abs( gold ) < EPS * Abs( g ) )   Fault: if ( Abs( gold ) < Abs( g ) )

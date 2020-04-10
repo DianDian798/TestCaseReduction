@@ -1,0 +1,1 @@
+line: 225 put_end(current_job->priority,current_job); => put_end(!current_job->priority,current_job);

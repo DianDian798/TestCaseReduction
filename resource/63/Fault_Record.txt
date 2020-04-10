@@ -1,0 +1,1 @@
+Line 105:   Original: totinfo += info;   Fault: totinfo = info; /* removed + before = */

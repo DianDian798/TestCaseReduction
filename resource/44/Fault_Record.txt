@@ -1,0 +1,1 @@
+line: 444 while((c=get_char(stream_ptr))!='\n'&& => while((c=get_char(stream_ptr))>='\n'&&

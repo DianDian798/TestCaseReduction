@@ -1,0 +1,1 @@
+Line 200:   Original: if ( Abs( del ) < Abs( sum ) * EPS )   Fault: if ( Abs( del ) < Abs( sum ) * (EPS-.000001) )

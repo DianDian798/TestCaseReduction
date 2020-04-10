@@ -1,0 +1,3 @@
+Line 75:   Original: result = !(Own_Below_Threat()) || ((Own_Below_Threat()) && (!(Down_Separation >= ALIM())));   Fault: result = ((Own_Below_Threat()) && (!(Down_Separation >= ALIM())));
+
+Line 126:   Original: need_upward_RA = Non_Crossing_Biased_Climb() && Own_Below_Threat();   Fault: need_upward_RA = Non_Crossing_Biased_Climb();

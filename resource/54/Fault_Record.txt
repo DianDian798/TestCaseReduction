@@ -1,0 +1,1 @@
+line: 148 if(job) => if(!job)

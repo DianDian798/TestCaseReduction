@@ -1,0 +1,1 @@
+Line 106:   Original: totdf += infodf;   Fault: totdf = infodf;

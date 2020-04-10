@@ -1,0 +1,3 @@
+Line 12:   Original: #define MINSEP     300          /* min separation in feet */   Fault: #define MINSEP     300+350          /* min separation in feet */
+
+Line 118:   Original: enabled = High_Confidence && (Own_Tracked_Alt_Rate <= OLEV) && (Cur_Vertical_Sep > MAXALTDIFF);    Fault: enabled = High_Confidence && (Own_Tracked_Alt_Rate <= OLEV);

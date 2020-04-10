@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e67b217-ffa7-457f-bf43-3ff254a47b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TestCaseReduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaultLocalization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCaseReduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
